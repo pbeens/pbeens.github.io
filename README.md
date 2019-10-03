@@ -17,11 +17,16 @@ Peter is a retired Computer Science, Computer Technology, Communications Technol
 - Old teaching website: [http://www2.beens.org](http://www2.beens.org)
 - Learning to Fly blog: [https://www.beens.ca/flying](https://www.beens.ca/flying)
 - Solo EV blog: [https://www.beens.ca/solo](https://www.beens.ca/solo)
+- Flickr: [https://www.flickr.com/photos/pbeens/](https://www.flickr.com/photos/pbeens/)
 - Programming challenges: [https://challenges.beens.org](https://challenges.beens.org)
 - Twitter: [https://twitter.com/pbeens](https://twitter.com/pbeens)
 - Facebook: [https://www.facebook.com/pbeens](https://www.facebook.com/pbeens)
 - YouTube: [https://www.youtube.com/user/pbeens/videos](https://www.youtube.com/user/pbeens/videos)
 - GitHub: [https://github.com/pbeens](https://github.com/pbeens)
+  - [#100DaysOfCode](https://github.com/pbeens/100DaysOfCode)
+  - [Curriculum](https://github.com/pbeens/Curriculum)
+  - [Presentations](https://github.com/pbeens/Presentations)
+  - [All Repositories](https://github.com/pbeens?tab=repositories)
 - LinkedIn: [https://www.linkedin.com/in/peter-beens](https://www.linkedin.com/in/peter-beens)
 
 ## URLs of This Page
