@@ -1,5 +1,11 @@
 # Peter Beens
 
+## Bio
+
+Peter is a retired Computer Science, Computer Technology, Communications Technology, and ICT in Business teacher. He is past-president of the Association for Computer Studies Educators (ACSE) and is chair of the OTF Curriculum Forum steering committee. Peter also worked with the Ministry of Education, having worked on the current Technological Education and Computer Studies curricula. His interests are computing, programming, photography, playing guitar, and long-distance motorcycling, not all at the same time.
+
+## Links
+
 - Blog: [https://www.beens.ca](https://www.beens.ca)
 - Python blog: [http://www.beens.ca/python](http://www.beens.ca/python)
 - Photography blog: [https://www.beens.ca/photo](https://www.beens.ca/photo)
