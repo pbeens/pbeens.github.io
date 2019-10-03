@@ -19,7 +19,7 @@ Peter is a retired Computer Science, Computer Technology, Communications Technol
 - YouTube: [https://www.youtube.com/user/pbeens/videos](https://www.youtube.com/user/pbeens/videos)
 - GitHub: [https://github.com/pbeens](https://github.com/pbeens)
 
-## URLs of this page: 
+## URLs of This Page
 
 - [https://peter.beens.ca](https://peter.beens.ca)
 - [https://sites.google.com/view/peter-beens](https://sites.google.com/view/peter-beens)
