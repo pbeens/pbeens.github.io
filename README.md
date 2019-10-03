@@ -17,7 +17,7 @@ Peter is a retired Computer Science, Computer Technology, Communications Technol
 - Old teaching website: [http://www2.beens.org](http://www2.beens.org)
 - Learning to Fly blog: [https://www.beens.ca/flying](https://www.beens.ca/flying)
 - Solo EV blog: [https://www.beens.ca/solo](https://www.beens.ca/solo)
-- Flickr: [https://www.flickr.com/photos/pbeens/](https://www.flickr.com/photos/pbeens/)
+- Flickr: [https://www.flickr.com/photos/pbeens](https://www.flickr.com/photos/pbeens/)
 - Programming challenges: [https://challenges.beens.org](https://challenges.beens.org)
 - Twitter: [https://twitter.com/pbeens](https://twitter.com/pbeens)
 - Facebook: [https://www.facebook.com/pbeens](https://www.facebook.com/pbeens)
