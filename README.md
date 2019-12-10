@@ -6,21 +6,20 @@
 
 ## Bio
 
-Peter is a retired Computer Science, Computer Technology, Communications Technology, and ICT in Business teacher. Formerly, Peter was an Education Officer at the Ontario Ministry of Education where he was responsible for the writing, editing, and public rollout of the current Technological Education and Computer Studies curricula; was Senior Flight Test Technologist at Eurocopter Canada (now Airbus Helicopters); and was a Flight Test Technician at the Aerospace Engineering Test Establishment while serving in the Canadian Armed Forces.
+Peter is a retired Computer Science, Computer Technology, Communications Technology, and ICT in Business teacher (1993-2007, 2009-2019. Formerly, Peter was an Education Officer (2007-2009) at the Ontario Ministry of Education where he was responsible for the writing, editing, and public rollout of the current Technological Education and Computer Studies curricula; was Senior Flight Test Technologist (1986-1992) at Eurocopter Canada (now Airbus Helicopters); and was a Flight Test Technician (1981-1985) at the Aerospace Engineering Test Establishment while serving in the Canadian Armed Forces.
 
 Peter now consults in the fields of post-secondary education and education technology.
 
-Peter volunteers with the Association for Computer Studies Educators (ACSE) (past-president), OTF Curriculum Forum steering committee (chair), and WordPress Niagara (on the conference committee).
+Peter volunteers with the Association for Computer Studies Educators (ACSE) (past-president), OTF Curriculum Forum steering committee (chair), WordPress Niagara (on the conference committee), and Chapter 22 (Niagara) of ARM (Active Retired Members) (webmaster).
 
-His interests are computing, programming, photography, playing guitar, and long-distance motorcycling, not all at the same time.
+His interests are computing, programming, photography, playing guitar, flying, and long-distance motorcycling, not all at the same time.
 
 ## Links
 
 - Blog: [https://www.beens.ca](https://www.beens.ca)
 - Python blog: [http://www.beens.ca/python](http://www.beens.ca/python)
 - Photography blog: [https://www.beens.ca/photo](https://www.beens.ca/photo)
-- Teaching website (not active): [https://www.beens.org](https://www.beens.org)
-- Old teaching website: [http://www2.beens.org](http://www2.beens.org)
+- Teaching websites (no longer active): https://www.beens.org and http://www2.beens.org
 - Learning to Fly blog: [https://www.beens.ca/flying](https://www.beens.ca/flying)
 - Solo EV blog: [https://www.beens.ca/solo](https://www.beens.ca/solo)
 - Flickr: [https://www.flickr.com/photos/pbeens](https://www.flickr.com/photos/pbeens/)
@@ -40,3 +39,7 @@ His interests are computing, programming, photography, playing guitar, and long-
 - [https://peter.beens.ca](https://peter.beens.ca)
 - [https://sites.google.com/view/peter-beens](https://sites.google.com/view/peter-beens)
 - [https://pbeens.github.io](https://pbeens.github.io)
+
+## Contact Information
+
+Please email me at pbeens@gmail.com. 
