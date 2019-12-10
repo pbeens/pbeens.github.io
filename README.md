@@ -37,9 +37,11 @@ His interests are computing, programming, photography, playing guitar, flying, a
 ## URLs of This Page
 
 - [https://peter.beens.ca](https://peter.beens.ca)
-- [https://sites.google.com/view/peter-beens](https://sites.google.com/view/peter-beens)
 - [https://pbeens.github.io](https://pbeens.github.io)
 
 ## Contact Information
 
 Please email me at pbeens@gmail.com. 
+
+<br><br><br><br><br><br>
+<[Sites link](https://sites.google.com/view/peter-beens)>
