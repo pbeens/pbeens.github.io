@@ -8,11 +8,11 @@
 
 Peter is a retired Computer Science, Computer Technology, Communications Technology, and ICT in Business teacher (1993-2007, 2009-2019. Formerly, Peter was an Education Officer (2007-2009) at the Ontario Ministry of Education where he was responsible for the writing, editing, and public rollout of the current Technological Education and Computer Studies curricula; was Senior Flight Test Technologist (1986-1992) at Eurocopter Canada (now Airbus Helicopters); and was a Flight Test Technician (1981-1985) at the Aerospace Engineering Test Establishment while serving in the Canadian Armed Forces.
 
-Peter now consults in the fields of post-secondary education and education technology.
+Peter now consults in the fields of computer hardware and software, post-secondary education, and education technology.
 
-Peter volunteers with the Association for Computer Studies Educators (ACSE) (past-president), OTF Curriculum Forum steering committee (chair), WordPress Niagara (on the conference committee), and Chapter 22 (Niagara) of ARM (Active Retired Members) (webmaster).
+Peter volunteers with the Association for Computer Studies Educators (ACSE) (past-president), OTF Curriculum Forum steering committee (chair), WordPress Niagara (on the conference committee), and Chapter 22 (Niagara) of ARM (Active Retired Members).
 
-His interests are computing, programming, photography, playing guitar, flying, and long-distance motorcycling, not all at the same time.
+His interests are computing, programming, photography, playing guitar, flying, and long-distance motorcycling.
 
 ## Links
 
@@ -41,7 +41,7 @@ His interests are computing, programming, photography, playing guitar, flying, a
 
 ## Contact Information
 
-Please email me at pbeens@gmail.com. 
+Please email me at peter@beens.ca. 
 
 <br><br><br><br><br><br>
 <[Sites link](https://sites.google.com/view/peter-beens)>
