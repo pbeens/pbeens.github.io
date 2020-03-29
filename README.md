@@ -21,6 +21,7 @@ His interests are computing, programming, photography, playing guitar, flying, a
 - Twitter: [https://twitter.com/pbeens](https://twitter.com/pbeens)
 - Facebook: [https://www.facebook.com/pbeens](https://www.facebook.com/pbeens)
 - YouTube: [https://www.youtube.com/user/pbeens/videos](https://www.youtube.com/user/pbeens/videos)
+- Email Lists: <https://www.beens.org/email-lists>
 - GitHub: [https://github.com/pbeens](https://github.com/pbeens)
   - [#100DaysOfCode](https://github.com/pbeens/100DaysOfCode)
   - [Curriculum](https://github.com/pbeens/Curriculum)
