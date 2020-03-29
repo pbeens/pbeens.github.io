@@ -17,13 +17,7 @@ His interests are computing, programming, photography, playing guitar, flying, a
 ## Links
 
 - Blog: [https://www.beens.ca](https://www.beens.ca)
-- Python blog: [http://www.beens.ca/python](http://www.beens.ca/python)
 - Photography blog: [https://www.beens.ca/photo](https://www.beens.ca/photo)
-- Teaching websites (no longer active): https://www.beens.org and http://www2.beens.org
-- Learning to Fly blog: [https://www.beens.ca/flying](https://www.beens.ca/flying)
-- Solo EV blog: [https://www.beens.ca/solo](https://www.beens.ca/solo)
-- Flickr: [https://www.flickr.com/photos/pbeens](https://www.flickr.com/photos/pbeens/)
-- Programming challenges: [https://challenges.beens.org](https://challenges.beens.org)
 - Twitter: [https://twitter.com/pbeens](https://twitter.com/pbeens)
 - Facebook: [https://www.facebook.com/pbeens](https://www.facebook.com/pbeens)
 - YouTube: [https://www.youtube.com/user/pbeens/videos](https://www.youtube.com/user/pbeens/videos)
@@ -33,6 +27,16 @@ His interests are computing, programming, photography, playing guitar, flying, a
   - [Presentations](https://github.com/pbeens/Presentations)
   - [All Repositories](https://github.com/pbeens?tab=repositories)
 - LinkedIn: [https://www.linkedin.com/in/peter-beens](https://www.linkedin.com/in/peter-beens)
+
+## Inactive Links
+
+- Python blog: [http://www.beens.ca/python](http://www.beens.ca/python)
+- Learning to Fly blog: [https://www.beens.ca/flying](https://www.beens.ca/flying) 
+- Flickr: [https://www.flickr.com/photos/pbeens](https://www.flickr.com/photos/pbeens/) (See my [Photo Blog](https://www.beens.ca/photo) instead) 
+- Programming challenges: [https://challenges.beens.org](https://challenges.beens.org)
+- Teaching websites (no longer active): https://www.beens.org and http://www2.beens.org
+- Solo EV blog: [https://www.beens.ca/solo](https://www.beens.ca/solo)
+
 
 ## URLs of This Page
 
