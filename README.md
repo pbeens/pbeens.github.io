@@ -18,6 +18,7 @@ His interests are computing, programming, photography, playing guitar, flying, a
 
 - Blog: [https://www.beens.ca](https://www.beens.ca)
 - Photography blog: [https://www.beens.ca/photo](https://www.beens.ca/photo)
+- Mastodon: [https://mstdn.ca/@pbeens](https://mstdn.ca/@pbeens)
 - Twitter: [https://twitter.com/pbeens](https://twitter.com/pbeens)
 - Facebook: [https://www.facebook.com/pbeens](https://www.facebook.com/pbeens)
 - YouTube: [https://www.youtube.com/user/pbeens/videos](https://www.youtube.com/user/pbeens/videos)
@@ -38,7 +39,6 @@ His interests are computing, programming, photography, playing guitar, flying, a
 - Teaching websites (no longer active): https://www.beens.org and http://www2.beens.org
 - Solo EV blog: [https://www.beens.ca/solo](https://www.beens.ca/solo)
 
-
 ## URLs of This Page
 
 - [https://peter.beens.ca](https://peter.beens.ca)
@@ -46,7 +46,7 @@ His interests are computing, programming, photography, playing guitar, flying, a
 
 ## Contact Information
 
-Please email me at peter@beens.ca. 
+Please email me at peter@beens.ca.
 
 <br><br><br><br><br><br>
 <[Sites link](https://sites.google.com/view/peter-beens)>
