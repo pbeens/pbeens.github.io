@@ -8,7 +8,7 @@
 
 Peter is a retired Computer Science, Computer Technology, Communications Technology, and ICT in Business teacher (1993-2007, 2009-2019) and department head. Peter was also an Education Officer (2007-2009) at the Ontario Ministry of Education where he was responsible for the writing, editing, and public rollout of the current Technological Education and Computer Studies curricula; was Senior Flight Test Technologist (1986-1992) at Eurocopter Canada (now Airbus Helicopters); and was a Flight Test Technician (1981-1985) at the Aerospace Engineering Test Establishment while serving in the Canadian Armed Forces.
 
-Peter volunteers with the Association for Computer Studies Educators (ACSE, past-president), OTF Curriculum Forum steering committee (chair), Royal Canadian Legion Branch 138 (Treasurer & Secretary), Chapter 22 (Niagara) of ARM (Active Retired Members), and Niagara BMW Riders Association (Social Convenor). His past volunteer work also includes WordPress Niagara (on the conference committee) and Cyber-Seniors (Tech Mentor).
+Peter volunteers with the Association for Computer Studies Educators (ACSE, past-president), OTF Curriculum Forum steering committee (chair), Royal Canadian Legion Branch 138 (Secretary-Treasurer), Chapter 22 (Niagara) of ARM (Active Retired Members), and Niagara BMW Riders Association (Social Convenor). His past volunteer work also includes WordPress Niagara (on the conference committee) and Cyber-Seniors (Tech Mentor).
 
 His interests are computing, programming, AI, photography, playing bass guitar, travelling in his old Sprinter van, and long-distance and adventure motorcycling.
 
