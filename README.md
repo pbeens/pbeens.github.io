@@ -17,6 +17,7 @@ His interests are computing, programming, AI, photography, playing bass guitar, 
 - Blog: [https://www.beens.ca](https://www.beens.ca)
 - Photography blog: [https://www.beens.ca/photo](https://www.beens.ca/photo)
 - Mastodon: <a rel="me" href="https://mstdn.ca/@pbeens">https://mstdn.ca/@pbeens</a>
+- Bluesky: [https://bsky.app/profile/pbeens.bsky.social](https://bsky.app/profile/pbeens.bsky.social)
 - X: [https://twitter.com/pbeens](https://twitter.com/pbeens)
 - Facebook: [https://www.facebook.com/pbeens](https://www.facebook.com/pbeens)
 - YouTube: [https://www.youtube.com/user/pbeens/videos](https://www.youtube.com/user/pbeens/videos)
